@@ -385,7 +385,6 @@
     text-transform: lowercase;
     text-underline-offset: 4px;
     text-align: center;
-    text-underline-offset: 4px;
     margin-top: 4px;
     letter-spacing: normal;
 }
@@ -393,7 +392,6 @@
 .footer__social {
     display: flex;
     gap: 48px;
-    justify-self: start;
     margin-top: 4px;
     justify-self: end;
 }
